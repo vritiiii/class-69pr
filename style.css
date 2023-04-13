@@ -1,0 +1,12 @@
+.travel_maindv
+{
+  border: 1px solid lightcyan;  
+}
+.travel_maindv img
+{
+width:100% ;
+}
+.travel_maindv h5,.travel_maindv p
+{
+    margin: 20px; ;
+}
